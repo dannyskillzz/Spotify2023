@@ -10,13 +10,13 @@ The data used in this project was sourced from [Kaggle](https://www.kaggle.com/d
 
 The top performing songs and artistes and streams were visualized using a stacked row chart. Also, the sum of other metrics such as total number of streams, number of artistes, number of tracks, and period of time covered were also shown using cards. 
 
-![](
+![](https://github.com/dannyskillzz/Spotify2023/blob/main/Top%2010%20Songs%20%26%20Top%2010%20Artistes.JPG)
 
 ## Yearly Trend of Streams
 
 I decided to carry out a time analysis to show how the trend of streams recorded on the platform from 1930 til date. Since the period covered spans across 93 years, I used the SWITCH function to create a DAX that groups the years in 10s. This way, I was able to show the trend of streams recorded across different range of years.
 
-![](
+![](https://github.com/dannyskillzz/Spotify2023/blob/main/Yearly%20Trend%20by%20Streams.JPG)
 
 ## Top Tracks in Playlists
 
@@ -24,7 +24,7 @@ Data was provided on how the tracks are performing in other playlists like Spoti
 
 Visualizations were also done to show the top songs in terms of danceability, valence, and energy. Danceability defines how suitable the song is for dancing, Valence is the positivity of the song's musical content, while Energy represents the perceived energy level of the song.
 
-![](h
+![](https://github.com/dannyskillzz/Spotify2023/blob/main/Top%20Tracks%20in%20playlists.JPG)
 
 ## Remarks
 
